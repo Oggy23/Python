@@ -1,4 +1,3 @@
-# Python
 #import the library function "random" so that you can use it for computer 
 #choice 
 import random 
